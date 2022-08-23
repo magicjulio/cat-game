@@ -13,3 +13,4 @@
 
 <h3> Credits </h3>
 <p> Coin animation by <a href="https://totuslotus.itch.io/">totuslotus</a></p>
+<p> Cats animation is amazing by <a href="https://pop-shop-packs.itch.io/">pop shop packs</a> <a href="https://pop-shop-packs.itch.io/cats-pixel-asset-pack">Cat pack</a> </p>
