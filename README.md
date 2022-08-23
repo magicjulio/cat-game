@@ -9,3 +9,7 @@
 <h3>Set up</h3>
 <li> Download zip </li>
 <li> unzip & clcik exe or main.py (if python installed)</li>
+
+
+<h3> Credits </h3>
+<p> Coin animation by <a href="https://totuslotus.itch.io/">totuslotus</a></p>
