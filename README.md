@@ -6,6 +6,13 @@
 <p> Made in pygame </p>
 
 
+<h3>How  to play</h3>
+<li> Use keypad keys to run in diffrent directions</li>
+<li> Collect the coins </li>
+<li> Change cats by clicking button in top left </li>
+<li> 5 on the keyboard is a special key (; </li>
+
+
 <h3>Set up</h3>
 <li> Download zip </li>
 <li> unzip & clcik exe or main.py (if python installed)</li>
